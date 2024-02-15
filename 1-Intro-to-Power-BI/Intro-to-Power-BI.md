@@ -2,6 +2,8 @@
 
 Microsoft Power BI is a data analytics and visualization tool powerful enough for the most demanding data scientists but accessible enough for everyday use by anyone needing to get more from their data. This chapter introduces Microsoft Power BI, discusses the entire Power BI family of products, provides an overview of how Power BI works, and looks at what distinguishes it from other similar tools.
 
+---
+
 ### What is Power BI?
 
 Power BI is both a piece of software and a larger ecosystem of products. Usually when people use the term "Power BI", it is in reference to the desktop software. However, when discussing how most people will visually share their work with others, it is done in the context of the Power BI service. Hereafter, we focus on Power BI Desktop and the Power BI service. *Power BI Desktop* is a tool for data investigation and visualization. Analysts can take data and create interactive reports that enable end users to garner insights.
@@ -32,13 +34,19 @@ If, for security reasons, you cannot publish reports to the Power BI service, yo
 
 Allows you to integrate Power BI reports and visuals into applications or websites.
 
+---
+
 ### Power BI Desktop
 
 There are two main components to Power BI Desktop, the Power BI canvas and Power Query. The canvas is the place where you build visualizations. Here you can use drag-and-drop functionality to pull information into different visualizations to explore your data and garner insights. Power Query is used to import and manipulate data. Unlike Excel, for example, you do not edit cells of data; you manipulate columns of data by using its functions, wizards and formulas. 
 
+---
+
 ### Power BI service
 
 The correct way to share reports with other users is to create a new workspace and invite others to that workspace. To be eligible to be invited to a workspace, a user must have a Power BI Pro license, or your organization must be using Power BI Premium. The Power BI service lets other end users explore reports you have created. This exploration can take the form of dashboards of curated visuals you put together, or it can be access to a report you have created with all its pages. Developers can manage deployment pipelines for workspace in the Power BI service, which lets you create and manage the development, test and production of workspaces. 
+
+---
 
 ### Power BI Under the Hood
 
