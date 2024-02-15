@@ -2,6 +2,8 @@
 
 In the following we shall go over the basics of the Power BI Desktop interface, specifically looking at the Report and Data views.
 
+---
+
 ### Report View
 
 The *Enter Data* button on the *Home* tab of the Report View gives you an interface that should feel familiar if you use Excel, as it opens a table-like structure where you can add columns, name them and put data into cells. It is important to note that this interface has no formula function, it is only for simple data entry. This window can be useful for testing, but it is not recommended that you put large amounts of information into this type of table structure.
@@ -17,6 +19,8 @@ The *New column* and *New table* buttons in the *Calculations* subsection will b
 The *Page refresh* subsection has a *Change detection* button that is relevant only in DirectQuery scenarios. You can determine whether you want your pages to refresh when there is a detected change in the data or on a fixed refresh interval.
 
 The *Visualizations* pane is where you choose visualizations to add to a report, add columns and measures to display in those visuals in the *Values* subsection, and more. The *Drill through* section on the *Visualizations* pane allows you to drill down from one subsection of your report to another, while keeping all the data elements filtered as you had them previously - enabling you to develop a story with data that allows users to find specific examples that are relevant to their analysis.
+
+---
 
 ### Data View
 
